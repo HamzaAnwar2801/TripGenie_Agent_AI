@@ -164,26 +164,87 @@ By harnessing the capabilities of Watsonx.ai, Trip Genie can understand natural 
 
 ![SettingUp](SettingUp.png)
 
+
+
 🔹 Agent Instructions..
 
 ![Agent Instructions](AgentInstructions.png)
 
+
+
 🔹Tools Used..
 
-![Tools Used](Tools Used.png)
+![Tools Used](ToolsUsed.png)
+
+
 
 🔹 Quick Start Questions..
 
 ![QuickStartQuestions](QuickStartQuestions.png)
 
-🔹Preview..
 
-![Preview and Deployment](Preview and Deployment.png)
+
+🔹Preview & Deploment..
+
+![Preview and Deployment](PreviewandDeployment.png)
+
+
 
 🔹 API Refrences..
-![API Refrences](API Refrences.png)
+
+![API Refrences](APIRefrences.png)
 
 
+
+---
+
+# 🎯 Future Scopes
+
+❖ Integration with AR/VR for immersive destination previews
+
+❖ Voice-only travel planning via smart assistants (e.g., Alexa, Siri)
+
+❖ Deeper personalization using user behavior and travel history
+
+❖ Blockchain-based secure travel document handling
+
+❖ Dynamic pricing prediction for flights and hotels
+
+❖ Integration with local transport and ride-sharing service
+
+❖ AI chatbot extension for post-trip feedback and review
+
+❖ Group travel planning with collaborative itinerary editing
+
+❖ API support for integration with third-party travel apps and agencies
+
+---
+
+# 📌 How to Run or Deploy
+
+Steps...
+
+1. Log in to IBM Cloud Lite: https://cloud.ibm.com
+ 
+2. Launch Watsonx.ai Studio
+
+3. Create a new AI Agent
+
+4. Upload travel related PDFs, CSV, DOCX to a Vector Index
+
+5. Choose Tools for web search (Google,Wikipedia,DuckDuckGo etc..)
+
+6. Configure agent instructions and topics (restricting AI from answering off-topic questions politely)
+
+7. Test in the preview panel
+
+8. Deploy via web snippet, Streamlit, or custom web UI
+
+---
+
+# © License
+
+This project is licensed under
 
    
 
