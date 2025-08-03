@@ -244,7 +244,12 @@ Steps...
 
 # © License
 
-This project is licensed under
+This project is licensed under the BSD 2-Clause "Simplified" License
+[ BSD 2-Clause "Simplified" License](https://github.com/HamzaAnwar2801/TripGenie_Agent_AI/edit/main/License)
+
+---
+
+Created with 💙 during IBM Skillsbuild Academia Internship 2025 by **Md Hamza Anwar**
 
    
 
